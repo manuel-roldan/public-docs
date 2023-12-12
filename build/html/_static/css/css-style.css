@@ -1,0 +1,21 @@
+body{
+    font-family:"Roboto";
+    background-color: #FFF;
+}
+h1 {
+    font-family:"Roboto";
+    color: #010F0E;
+}
+h2 {
+    font-family:"Roboto";
+    color: #010F0E;
+}
+.wy-side-nav-search {
+    background-color: #FFF;
+}
+.wy-nav-top {
+    background-color: #FFF;
+}
+:root{
+    --sd-color-primary: #A4CC2D;
+}
